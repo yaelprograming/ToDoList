@@ -15,3 +15,5 @@ yarn.lock
 # סביבת עבודה של React
 build/
 dist/
+
+.env
